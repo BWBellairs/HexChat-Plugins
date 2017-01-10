@@ -4,7 +4,7 @@ import random
 __module_name__ = 'badcase'
 __module_author__ = 'BWBellairs'
 __module_version__ = '0.1.0'
-__module_description__ = 'Makes messages you send annoying'
+__module_description__ = 'Makes messages you send more annoying'
 
 enabled = False
 
